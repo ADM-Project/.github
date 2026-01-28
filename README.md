@@ -43,3 +43,9 @@ cd Infrastracture
 
 # 4. Lancement de l'environnement Docker
 docker compose up -d --build
+```
+### Après l'application est disponible à travers :
+
+```bash
+http://localhost:8090/
+```
